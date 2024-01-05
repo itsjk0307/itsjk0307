@@ -13,8 +13,7 @@
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  
+  </a>  
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -30,19 +29,5 @@
   
  
   
-  <!-- Three.js -->
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
-  </a>
-  
-  <!-- React Three Fiber -->
-  <a href="https://github.com/pmndrs/react-three-fiber" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/46495209?s=200&v=4" alt="react-three-fiber" width="40" height="40"/>
-  </a>
-  
-  <!-- MobX -->
-  <a href="https://mobx.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mobx/mobx-original-wordmark.svg" alt="mobx" width="40" height="40"/>
-  </a>
-</p>
+
 
