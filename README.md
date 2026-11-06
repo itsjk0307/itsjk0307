@@ -90,13 +90,13 @@ from UI design to backend logic and real-time data pipelines — and brings **AI
 
 | Project | What it is | Stack |
 |:--|:--|:--|
-| 📊 [**AI Log Intelligence Dashboard**](https://github.com/itsjk0307/ai-log-intelligence-dashboard) | Dashboard that turns raw logs into AI-powered insights | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
-| 🤖 [**Smart Chatbot for Customer Support**](https://github.com/itsjk0307/Smart-Chatbot-for-Customer-Support) | NLP chatbot that answers customer questions | ![Py](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
-| 💬 [**SmartChatBot Frontend**](https://github.com/itsjk0307/smartchatbot_frontend) | Chat UI for the support bot | ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square) |
-| 🧠 [**TinyBERT Sentiment Classifier**](https://github.com/itsjk0307/TinyBERT-Sentiment-Classifier) | Lightweight transformer model for sentiment analysis | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square) |
-| 🎨 [**Portfolio**](https://new-portfolio-seven-steel.vercel.app/) | My personal portfolio site | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
+| 🌱 **GreenCare — Smart Golf Course Management** | AI-powered platform for Daejung Golf Engineering: field workers capture turf conditions, mark work areas on course maps, and get AI disease analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) |
+| 📱 **GreenCare Mobile** | Field app (Expo) for photo reports, course-map work zones, and AI turf disease detection | ![React_Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
+| 🛠️ **GreenCare Hub & Admin** | Super-admin and field-ops admin panels to oversee golf courses, approve accounts, and monitor activity | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
+| ⛳ **Daejung Golf Website** | Official multilingual (KO / EN / ZH / JA) company site replacing the legacy PHP site | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) |
+| 🗂️ **Daejung Golf Admin** | Admin panel for boards, members, products, orders, coupons, popups, inquiries, and mass mail | ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square) |
 
-> 🔒 Plus private production work: GreenCare AI platform, Daejung Golf website & admin, and cross-platform mobile apps.
+> 🔒 These are private production projects, so the repositories aren't public.
 
 ---
 
