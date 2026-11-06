@@ -126,18 +126,6 @@ from UI design to backend logic and real-time data pipelines — and brings **AI
 
 ---
 
-## 🐍 Watch the snake eat my contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsjk0307/itsjk0307/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsjk0307/itsjk0307/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/itsjk0307/itsjk0307/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
