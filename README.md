@@ -117,7 +117,7 @@ from UI design to backend logic and real-time data pipelines — and brings **AI
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itsjk0307&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=itsjk0307&theme=tokyonight&hide_border=true&v=2" alt="streak" />
 </p>
 
 <p align="center">
