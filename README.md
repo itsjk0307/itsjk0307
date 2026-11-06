@@ -112,8 +112,8 @@ from UI design to backend logic and real-time data pipelines — and brings **AI
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsjk0307&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjk0307&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsjk0307&theme=tokyonight" alt="stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsjk0307&theme=tokyonight" alt="top languages" />
 </p>
 
 <p align="center">
