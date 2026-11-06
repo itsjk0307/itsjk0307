@@ -12,8 +12,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsjk0307&label=Profile%20views&color=0ea5e9&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20years-0ea5e9?style=flat" alt="experience" />
-  <img src="https://img.shields.io/badge/Based%20in-Seongnam%2C%20Korea-0ea5e9?style=flat" alt="location" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20years-0ea5e9?style=flat" alt="experience" />
+  <img src="https://img.shields.io/badge/Based%20in-Yongin%2C%20Korea-0ea5e9?style=flat" alt="location" />
 </p>
 
 ---
