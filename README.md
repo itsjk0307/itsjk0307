@@ -120,10 +120,6 @@ from UI design to backend logic and real-time data pipelines — and brings **AI
   <img src="https://streak-stats.demolab.com?user=itsjk0307&theme=tokyonight&hide_border=true&v=2" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsjk0307&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
